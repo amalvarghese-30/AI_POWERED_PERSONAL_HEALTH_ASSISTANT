@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -12,13 +12,13 @@
     <header>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="symptom-checker.html">Symptom Checker</a></li>
-                <li><a href="recommendations.html">Recommendations</a></li>
-                <li><a href="reminders.html">Reminders</a></li>
-                <li><a href="dashboard.html">Dashboard</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="symptom-checker.php">Symptom Checker</a></li>
+                <li><a href="recommendations.php">Recommendations</a></li>
+                <li><a href="reminders.php">Reminders</a></li>
+                <li><a href="dashboard.php">Dashboard</a></li>
+                <li><a href="about.php">About Us</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -45,4 +45,4 @@
     </footer>
 </body>
 
-</html>
+</php>
