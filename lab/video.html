@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video with Subtitles</title>
+    <style>
+        .video-container {
+            margin: 20px auto;
+            max-width: 800px;
+            text-align: center;
+        }
+
+        video {
+            background: #000;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="video-container">
+        <video width="800" height="450" controls>
+            <source src="/videoplayback.mp4" type="video/mp4">
+            <!-- English Subtitles -->
+            <track label="English" kind="subtitles" srclang="en" src="subtitles_en.vtt" default>
+            <!-- Marathi Subtitles -->
+            <track label="Marathi" kind="subtitles" srclang="mr" src="subtitles_mr.vtt">
+            Your browser does not support the video tag.
+        </video>
+
+    </div>
+</body>
+
+</html>
