@@ -124,6 +124,8 @@ function getGoalStatusText($goal) {
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.css">
+        <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+
     <style>
         :root {
   /* Color Palette */

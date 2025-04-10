@@ -21300,3 +21300,141 @@
 [10-Apr-2025 21:04:02 Asia/Kolkata] [2025-04-10 21:04:02] Found 0 due reminders
 [10-Apr-2025 21:04:02 Asia/Kolkata] [2025-04-10 21:04:02] CRON JOB COMPLETED
 
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] Database connection successful
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] Active reminders: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [medication] => hel123
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:54"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:59"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["10:12"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+    [3] => Array
+        (
+            [id] => 58
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["19:11"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+)
+
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] CRON JOB STARTED
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] Checking reminders for time: 21:05, day: Thursday
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] Found 0 due reminders
+[10-Apr-2025 21:05:02 Asia/Kolkata] [2025-04-10 21:05:02] CRON JOB COMPLETED
+
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] Database connection successful
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] Active reminders: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [medication] => hel123
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:54"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:59"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["10:12"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+    [3] => Array
+        (
+            [id] => 58
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["19:11"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+)
+
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] CRON JOB STARTED
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] Checking reminders for time: 21:06, day: Thursday
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] Found 0 due reminders
+[10-Apr-2025 21:06:02 Asia/Kolkata] [2025-04-10 21:06:02] CRON JOB COMPLETED
+
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] Database connection successful
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] Active reminders: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [medication] => hel123
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:54"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["21:59"],"frequency":"daily"}
+            [email] => amalvarghese113112@gmail.com
+        )
+
+    [2] => Array
+        (
+            [id] => 57
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["10:12"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+    [3] => Array
+        (
+            [id] => 58
+            [medication] => med1
+            [schedule_type] => daily
+            [schedule_data] => {"times":["19:11"],"frequency":"daily"}
+            [email] => mpremnathan23comp@student.mes.ac.in
+        )
+
+)
+
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] CRON JOB STARTED
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] Checking reminders for time: 21:07, day: Thursday
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] Found 0 due reminders
+[10-Apr-2025 21:07:02 Asia/Kolkata] [2025-04-10 21:07:02] CRON JOB COMPLETED
+
